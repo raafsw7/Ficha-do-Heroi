@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ficha do Heroi Raphael/1.0.0": {
+        "runtime": {
+          "Ficha do Heroi Raphael.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ficha do Heroi Raphael/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

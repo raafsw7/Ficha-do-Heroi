@@ -1,0 +1,14 @@
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\bin\Debug\net10.0\Ficha do Heroi Raphael.exe
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\bin\Debug\net10.0\Ficha do Heroi Raphael.deps.json
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\bin\Debug\net10.0\Ficha do Heroi Raphael.runtimeconfig.json
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\bin\Debug\net10.0\Ficha do Heroi Raphael.dll
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\bin\Debug\net10.0\Ficha do Heroi Raphael.pdb
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\obj\Debug\net10.0\Ficha do Heroi Raphael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\obj\Debug\net10.0\Ficha do Heroi Raphael.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\obj\Debug\net10.0\Ficha do Heroi Raphael.AssemblyInfo.cs
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\obj\Debug\net10.0\Ficha do Heroi Raphael.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\obj\Debug\net10.0\Ficha do Heroi Raphael.dll
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\obj\Debug\net10.0\refint\Ficha do Heroi Raphael.dll
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\obj\Debug\net10.0\Ficha do Heroi Raphael.pdb
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\obj\Debug\net10.0\Ficha do Heroi Raphael.genruntimeconfig.cache
+C:\Users\aluno\Downloads\Ficha do Heroi Raphael\obj\Debug\net10.0\ref\Ficha do Heroi Raphael.dll
